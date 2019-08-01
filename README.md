@@ -1,4 +1,4 @@
 # hello-world
 sample
 
-This is for my learning purpose
+This is for my leaning purpose
